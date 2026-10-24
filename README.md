@@ -1,53 +1,65 @@
 
-# Hey there! I'm Leonardo Ribeiro 👋
+<h1 align="center">Hey there! I'm Leonardo Ribeiro Borges 👋</h1>
 
-### 💻 Full-Stack Developer | 🎓 Software Development & Engineering Student
+<h3 align="center">
+  💻 Full-Stack Developer | 🎓 Software Development & Engineering Student
+</h3>
 
-I'm currently pursuing degrees in **Systems Analysis and Development** and **Control and Automation Engineering**.
+<p align="center">
+  Passionate about technology, software development, and building solutions to real-world problems.
+</p>
 
-I'm passionate about software development, technology, and building solutions that solve real-world problems.
-
-My goal is to continuously improve my skills as a Full-Stack Developer while exploring the connection between software engineering and automation.
+<p align="center">
+  <a href="https://github.com/Ashkor7">
+    <img src="https://img.shields.io/badge/GitHub-Ashkor7-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Studying Systems Analysis and Development
-- ⚙️ Studying Control and Automation Engineering
+I'm currently pursuing degrees in **Systems Analysis and Development** and **Control and Automation Engineering**.
+
+I'm passionate about software development, problem-solving, and exploring how technology can make everyday life easier.
+
+My academic journey allows me to combine software engineering concepts with automation and engineering principles.
+
+- 🎓 Pursuing two degrees in Technology and Engineering
 - 💻 Focused on Full-Stack Web Development
-- 🌱 Improving my skills in React, TypeScript, Python, C, and MySQL
+- 🌱 Learning and improving my programming skills
 - 🧠 Interested in Software Engineering, OOP, and Automation
-- 🤝 Open to collaboration and learning opportunities
-- 🎯 Always looking for new challenges and projects
+- 🚀 Building personal and academic projects
+- 🤝 Open to collaboration and new opportunities
+- 🎯 Always learning, always improving
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c" />
+</p>
 
-### Front-End Development
+### 🎨 Front-End Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
 
-### Databases
+### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### Tools & Version Control
+### ⚙️ Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
@@ -55,51 +67,74 @@ My goal is to continuously improve my skills as a Full-Stack Developer while exp
 
 ### 🎮 Game Library
 
-A web application for managing personal game collections, organizing games by category, platform, price, and completion status.
+A web application designed to manage personal game collections.
 
-**Technologies:** React, JavaScript, Tailwind CSS, LocalStorage.
+**Features:**
+- Organize games by category and platform
+- Track game completion status
+- Add game covers and personal ratings
+- Store data using LocalStorage
+- Responsive interface
+
+**Tech Stack:** React, JavaScript, Tailwind CSS
 
 ### ⚔️ RPG System
 
-An object-oriented programming project focused on character classes, attributes, inheritance, and encapsulation.
+An object-oriented programming project focused on creating and managing RPG character classes.
 
-**Technologies:** TypeScript, OOP.
+**Concepts:**
+- Object-Oriented Programming
+- Inheritance and Encapsulation
+- Class Structure
+- Character Attributes
 
-### 🛠️ Service Marketplace
+**Tech Stack:** TypeScript
 
-A platform concept designed to connect service providers with customers, focusing on trust, security, and service management.
+### 🛠️ Service Marketplace — Concept
 
-**Focus:** Software Engineering, System Design, and User Experience.
+A platform concept designed to connect service providers and customers through a more secure and transparent experience.
 
-> Project repository links will be added as they become available.
+**Planned Features:**
+- Service provider profiles
+- Customer reviews and ratings
+- Service scheduling
+- Payment protection
+- Service management
+
+**Focus:** Software Engineering, System Design, UX
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashkor7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashkor7&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🎯 Current Goals
 
-- Improve my Full-Stack development skills
-- Build responsive and scalable web applications
-- Expand my knowledge of Back-End development
-- Strengthen my database management skills
-- Explore software integration with automation systems
-- Contribute to collaborative and open-source projects
+- 🚀 Become a better Full-Stack Developer
+- 💻 Build modern and responsive applications
+- 🗄️ Improve my database and Back-End development skills
+- ⚙️ Explore the connection between software and automation
+- 📚 Keep learning new technologies and best practices
+- 🤝 Collaborate on real-world and open-source projects
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+<p align="center">
+  <a href="https://github.com/Ashkor7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ *"Always learning, always building."*
+<p align="center">
+  <i>⭐ "Always learning, always building."</i>
+</p>
