@@ -28,6 +28,7 @@ I'm passionate about software development, problem-solving, and exploring how te
 My academic journey allows me to combine software engineering concepts with automation and engineering principles.
 
 - 🎓 Pursuing two degrees in Technology and Engineering
+- 🏆 1st place at Techstars Startup Weekend Pelotas 2026 as a developer
 - 💻 Focused on Full-Stack Web Development
 - 🎮 Building a 2D RPG in Godot as a game development side project
 - 🧠 Interested in Software Engineering, OOP, and Automation
@@ -46,6 +47,23 @@ My academic journey allows me to combine software engineering concepts with auto
 
 ---
 
+## 🏆 Achievements & Events
+
+### 🥇 Techstars Startup Weekend Pelotas 2026 — 1st place
+
+*Oct 16–18, 2026 · Pelotas, RS · Role: Developer*
+
+In 56 hours, our team of 6 went from an idea to a validated business and won first place with **Melhor Obra**, a home-services marketplace with protected payments.
+
+- 🔎 Validated the problem with 30 interviews in Pelotas: 26 people had already had trouble with a service provider
+- 💻 Built the MVP: the full flow (request → quote → protected payment → approval → review) driven by a state machine, with the client and provider screens synced on different phones during the pitch
+- 🤝 Closed the first 2 real services during the event: R$ 1,340 in signed contracts
+- 🚀 The project continues as a pilot in Pelotas
+
+📸 [Photos and details](https://portfolio-leonardoribeiro.vercel.app/events/startup-weekend-pelotas-2026) · [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7524456460802764800/) · [Instagram post](https://www.instagram.com/p/DexZn2Bma1V/)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -60,7 +78,7 @@ My academic journey allows me to combine software engineering concepts with auto
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="React, HTML, CSS, Tailwind CSS, Vite" />
 </p>
 
-React Router · TanStack Query · React Hook Form · Recharts
+React Router · Zustand · TanStack Query · React Hook Form · Recharts
 
 ### ⚙️ Back-End Development
 
@@ -109,6 +127,7 @@ My personal portfolio with a cyberpunk / engineering-panel look, connecting soft
 **Features:**
 - Project database with filters and a detail page for each project
 - Interactive Engineering Lab with an illustrative sensor → motor simulation
+- Events section with photo galleries from hackathons and competitions
 - Contact form with real email delivery through a serverless function
 - Accessible (keyboard navigation, reduced motion) and responsive
 - Unit, end-to-end and accessibility tests
@@ -149,18 +168,20 @@ An object-oriented programming project focused on creating and managing RPG char
 
 **Tech Stack:** TypeScript
 
-### 🛠️ Service Marketplace — Concept
+### 🛠️ [Melhor Obra](https://melhorobras.com) — 🥇 Startup Weekend Pelotas 2026
 
-A platform concept designed to connect service providers and customers through a more secure and transparent experience.
+A marketplace that connects people who need home services (electrical, plumbing, painting, furniture assembly…) to rated local professionals, with protected payments. Built as a team in 56 hours, it won first place and now runs as a pilot in Pelotas.
 
-**Planned Features:**
-- Service provider profiles
-- Customer reviews and ratings
-- Service scheduling
-- Payment protection
-- Service management
+**How it works:**
+- The client describes the job in 1 minute, with photos and neighborhood
+- Up to 3 local professionals receive the request and send quotes
+- The client pays through the platform and the money is held ("Obra Segura")
+- The professional is paid only after the client approves the work
+- Only clients who hired and paid through the platform can leave reviews
 
-**Focus:** Software Engineering, System Design, UX
+**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, React Router, Zustand
+
+🔗 **Live:** [melhorobras.com](https://melhorobras.com) · 📸 [Event details](https://portfolio-leonardoribeiro.vercel.app/events/startup-weekend-pelotas-2026)
 
 ---
 
@@ -180,7 +201,7 @@ A platform concept designed to connect service providers and customers through a
 - 🗄️ Improve my database and Back-End development skills
 - ⚙️ Explore the connection between software and automation
 - 🔌 Build physical prototypes with microcontrollers
-- 🏆 Take part in hackathons and tech competitions
+- 🏆 Keep taking part in hackathons and tech competitions
 - 📚 Keep learning new technologies and best practices
 - 🤝 Collaborate on real-world and open-source projects
 
