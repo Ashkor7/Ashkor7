@@ -28,7 +28,7 @@ I'm passionate about software development, problem-solving, and exploring how te
 My academic journey allows me to combine software engineering concepts with automation and engineering principles.
 
 - 🎓 Pursuing two degrees in Technology and Engineering
-- 🏆 1st place at Techstars Startup Weekend Pelotas 2026 as a developer
+- 🏆 1st place at Techstars Startup Weekend Pelotas 2026 and 2nd place at the Atlas Technologies Hackathon 2026, both as a developer
 - 💻 Focused on Full-Stack Web Development
 - 🎮 Building a 2D RPG in Godot as a game development side project
 - 🧠 Interested in Software Engineering, OOP, and Automation
@@ -61,6 +61,35 @@ In 56 hours, our team of 6 went from an idea to a validated business and won fir
 - 🚀 The project continues as a pilot in Pelotas
 
 📸 [Photos and details](https://portfolio-leonardoribeiro.vercel.app/events/startup-weekend-pelotas-2026) · [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7524456460802764800/) · [Instagram post](https://www.instagram.com/p/DexZn2Bma1V/)
+
+### 🥈 Atlas Technologies Hackathon 2026 — 2nd place
+
+*Oct 29, 2026 · Role: Developer & pitch presenter*
+
+Second place in the hackathon hosted by Atlas Technologies. I worked on developing our solution and presented the team's pitch.
+
+📸 [Photos and details](https://portfolio-leonardoribeiro.vercel.app/events/hackathon-atlas-2026)
+
+### 🎤 TecnoPUC Experience 2026
+
+*Oct 22, 2026 · PUCRS, Porto Alegre, RS · Attendee*
+
+A tech event at TecnoPUC with my Systems Analysis and Development classmates: talks, workshops, the game room and a tour of some of the PUCRS buildings.
+
+📸 [Photos and details](https://portfolio-leonardoribeiro.vercel.app/events/tecnopuc-experience-2026)
+
+### 🏅 UniSenac Pelotas Hackathon 2026 — 4th place (my first hackathon)
+
+*Jun 20, 2026 · UniSenac, Pelotas, RS · Role: Developer*
+
+The challenge was to build a system for Unimed. Our team created **GuIA**, an ICU monitoring system:
+
+- 🩺 After each exam, the nurse enters the data into the system, either by typing it or attaching the file
+- 🤖 The AI reads the files and updates and sets the patient's status: improving, stable or worsening
+- 👨‍⚕️ The AI does not diagnose: the doctor reviews the status and decides whether it holds or new exams are needed
+- 🛏️ Goal: free up ICU beds faster and help the medical team focus on the patients who need it most
+
+📸 [Photos and details](https://portfolio-leonardoribeiro.vercel.app/events/hackathon-unisenac-2026)
 
 ---
 
