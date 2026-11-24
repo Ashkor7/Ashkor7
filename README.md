@@ -29,7 +29,9 @@ My academic journey allows me to combine software engineering concepts with auto
 
 - 🎓 Pursuing two degrees in Technology and Engineering
 - 🏆 1st place at Techstars Startup Weekend Pelotas 2026 and 2nd place at the Atlas Technologies Hackathon 2026, both as a developer
+- 🤖 AI builder certificate at TalentCamp 2026: built a working onboarding platform with AI agents in 8 hours
 - 💻 Focused on Full-Stack Web Development
+- 🌐 My Game Library is live as [Nexus Play](https://nexus-play-ekb6.onrender.com), with open sign-up
 - 🎮 Building a 2D RPG in Godot as a game development side project
 - 🧠 Interested in Software Engineering, OOP, and Automation
 - 🧪 Writing tests and documentation as part of every project
@@ -48,6 +50,27 @@ My academic journey allows me to combine software engineering concepts with auto
 ---
 
 ## 🏆 Achievements & Events
+
+### 🤖 TalentCamp 2026 — AI builder certificate
+
+*Nov 14, 2026 · Parque Tecnológico de Pelotas, RS · Role: AI builder*
+
+In 8 hours, I built **Bússola** with AI agents: an onboarding platform for the challenge "The first month of a new hire". It serves the new hire, the manager and HR, using only fictional data.
+
+- 🔎 Studied onboarding platforms on the market (Enboarder, BambooHR, Gupy, Glean) and focused on what they leave out: answers that always show their source, knowledge that grows from questions, and content with an owner and an expiry date
+- 📝 Wrote the product spec and built the platform with an AI agent, testing every feature on desktop and mobile between rounds
+- 🧭 My journey, step-by-step onboarding track, sourced Q&A that never makes up answers, a gap queue for HR, a company map and safety check-ins with alerts for the manager
+- 🎬 Produced a 2-minute demo video for the presentation
+
+📸 [Photos, demo video and details](https://portfolio-leonardoribeiro.vercel.app/events/talentcamp-2026)
+
+### 🎤 DevFest Pelotas 2026
+
+*Nov 7, 2026 · Parque Tecnológico de Pelotas, RS · Attendee*
+
+DevFest by Google Developer Group Pelotas, with talks on agents with ADK on Gemini, cybersecurity, game dev, Firebase and multi-agent cloud systems with Gemini.
+
+📸 [Photos and details](https://portfolio-leonardoribeiro.vercel.app/events/devfest-pelotas-2026)
 
 ### 🥇 Techstars Startup Weekend Pelotas 2026 — 1st place
 
@@ -91,6 +114,8 @@ The challenge was to build a system for Unimed. Our team created **GuIA**, an IC
 
 📸 [Photos and details](https://portfolio-leonardoribeiro.vercel.app/events/hackathon-unisenac-2026)
 
+### 🔜 Next up: Hackapel — Dec 12, 2026
+
 ---
 
 ## 🛠️ Tech Stack
@@ -100,6 +125,8 @@ The challenge was to build a system for Unimed. Our team created **GuIA**, an IC
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,c" alt="JavaScript, TypeScript, Python, C" />
 </p>
+
+JavaScript · TypeScript · Python · C · GDScript
 
 ### 🎨 Front-End Development
 
@@ -115,13 +142,15 @@ React Router · Zustand · TanStack Query · React Hook Form · Recharts
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" alt="Node.js, Express, Prisma" />
 </p>
 
-REST APIs · Zod validation · JWT authentication · Serverless functions
+REST APIs · Zod validation · JWT authentication (HttpOnly cookies) · Helmet · Rate limiting · Serverless functions · File uploads (Multer) · Third-party APIs (Steam Web API, Resend)
 
 ### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" />
 </p>
+
+PostgreSQL · Prisma migrations · Neon (managed PostgreSQL) · Cloudflare R2 (object storage) · MySQL
 
 ### 🧪 Testing & Quality
 
@@ -142,8 +171,10 @@ Godot 4 · GDScript · Pixel art · 2D top-down
 ### 🧰 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" alt="Git, GitHub, VS Code, Docker, Vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,cloudflare" alt="Git, GitHub, VS Code, Docker, Vercel, Cloudflare" />
 </p>
+
+Git · GitHub · VS Code · Docker · Vercel · Render · Neon · Cloudflare R2 · Claude Code (AI agents)
 
 ---
 
@@ -156,34 +187,42 @@ My personal portfolio with a cyberpunk / engineering-panel look, connecting soft
 **Features:**
 - Project database with filters and a detail page for each project
 - Interactive Engineering Lab with an illustrative sensor → motor simulation
-- Events section with photo galleries from hackathons and competitions
-- Contact form with real email delivery through a serverless function
+- Events section with photo galleries, certificates and demo videos from hackathons and conferences
+- Contact form with real email delivery through a serverless function (Resend)
 - Accessible (keyboard navigation, reduced motion) and responsive
 - Unit, end-to-end and accessibility tests
 
-**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Vercel Functions, Vitest, Playwright
+**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, React Router, Vercel Functions, Vitest, Testing Library, Playwright, axe
 
 🔗 **Live:** [portfolio-leonardoribeiro.vercel.app](https://portfolio-leonardoribeiro.vercel.app/)
 
 ### 🎮 [Game Library](https://github.com/Ashkor7/biblioteca-jogos)
 
-A full-stack web application to manage a personal game collection, with data stored on the server.
+A full-stack game library and player profile, live as **Nexus Play** (v3.1). It started as a SENAC assignment (React + LocalStorage) and was rebuilt with its own API and a PostgreSQL database. Sign-up is open: each account has its own library, profile and progression.
 
 **Features:**
 - Dynamic platforms, each with its own page
 - Game details with multiple images, ratings, categories, completion status and hours played
-- Wishlist with a "mark as purchased" action
-- Statistics: amount spent, savings, hours per category and ranking of stores
-- Owner authentication with secure cookies and validation on client and server
-- One-time import of data from the old LocalStorage version
+- Wishlist with target price, priority, price history and a "mark as purchased" action
+- Statistics and finance dashboard: spending and savings by month and year, hours, stores and platforms
+- Player profile with level, XP, achievements, titles and goals
+- Play diary with sessions, calendar and summaries, plus collections and favorites
+- Optional public profile, with each section unlocked by the owner
+- Steam library import (hours, achievements, cover art and metadata) with resync
+- Secure authentication (bcrypt, HttpOnly cookies, rate limiting, CSRF protection) and validation on client and server
+- Deployed for free with Docker on Render, PostgreSQL on Neon and images on Cloudflare R2
 
-**Tech Stack:** React, Vite, Tailwind CSS, TanStack Query, Node.js, Express, Prisma, PostgreSQL, Docker, Vitest
+**Tech Stack:** React, Vite, Tailwind CSS, TanStack Query, React Hook Form, Recharts, Node.js, Express, Zod, Prisma, PostgreSQL, Docker, Vitest, Supertest
+
+🔗 **Live:** [nexus-play-ekb6.onrender.com](https://nexus-play-ekb6.onrender.com) *(free hosting: the first visit may take about a minute to wake up)* · 📄 [Project details](https://portfolio-leonardoribeiro.vercel.app/projects/game-library)
 
 ### ⚔️ RPG Isekai — In Development
 
-A 2D top-down exploration RPG in pixel art. The first playable prototype includes movement, collisions and camera. *(Private repository — screenshots coming soon.)*
+A 2D top-down medieval fantasy RPG in pixel art: a fallen noble starts his life over by exploring ruins, farming, cooking and leveling up crafts. The M4.4 prototype is playable from the Ruined Altar Clearing to the Brook Village, with gathering, crafting, five professions with their own XP, a vegetable garden, cooking, a first quest, a day cycle, six animated villagers and versioned saves. *(Private repository.)*
 
-**Tech Stack:** Godot 4, GDScript, Pixel Art
+**Tech Stack:** Godot 4.7, GDScript, Pixel Art
+
+📄 [Project details and promotional art](https://portfolio-leonardoribeiro.vercel.app/projects/rpg-isekai)
 
 ### ⚔️ RPG System
 
