@@ -174,7 +174,7 @@ Godot 4 · GDScript · Pixel art · 2D top-down
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,cloudflare" alt="Git, GitHub, VS Code, Docker, Vercel, Cloudflare" />
 </p>
 
-Git · GitHub · VS Code · Docker · Vercel · Render · Neon · Cloudflare R2 · Claude Code (AI agents)
+Git · GitHub · VS Code · Docker · Vercel · Render · Neon · Cloudflare R2 · Claude Code · Codex (AI agents)
 
 ---
 
